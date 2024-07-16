@@ -15,38 +15,38 @@ Para instalar y configurar este proyecto en tu entorno local, sigue estos pasos:
    
 ***```git clone https://github.com/vortex11211/2.1-Rene-Hernandez-debounce.git```***
 
-```**cd 2.1-Rene-Hernandez-debounce**```
+```cd 2.1-Rene-Hernandez-debounce```
 
 3.	Instala las dependencias:
 
-  ```**npm install**```
+  ```npm install```
   
 Para compilar y ejecutar la aplicación, utiliza los siguientes comandos:
 
 Compila el proyecto
 
-```**npx tsc**```
+```npx tsc```
 
 ## HTML
 
 Puedes ver un ejemplo de su uso en html ejecutando el archivo
 
-```**start HTML/index.html**```
+```start HTML/index.html```
 
 Para ejecutar las pruebas unitarias utiliza el siguiente comando:
 
-```**npx jest**```
+```npx jest```
 
 las pruebas están ubicadas en la carpeta src y utilizan Jest,
 asegúrate de que tienes instalado jest types: 
 
-```**npm install --save-dev jest ts-jest @types/jest**```
+```npm install --save-dev jest ts-jest @types/jest```
 
 
 **Pendientes**
 -Mejorar el CLI ya que es poco práctico, para ejecutarlo utiliza:
 
-```**node ./dist/CLI/index.js 'debounce' 1000**```
+```node ./dist/CLI/index.js 'debounce' 1000```
 debounce es un texto y 1000 es la cantidad de milisegundos que quieres retrasar su aparición.
 
 **Contribuir**
