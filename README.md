@@ -13,9 +13,9 @@ Para instalar y configurar este proyecto en tu entorno local, sigue estos pasos:
 
 1.	Clona el repositorio:
    
-```**git clone https://github.com/vortex11211/2.1-Rene-Hernandez-debounce.git**```
+***```git clone https://github.com/vortex11211/2.1-Rene-Hernandez-debounce.git```***
 
-**cd 2.1-Rene-Hernandez-debounce**
+```**cd 2.1-Rene-Hernandez-debounce**```
 
 3.	Instala las dependencias:
 
