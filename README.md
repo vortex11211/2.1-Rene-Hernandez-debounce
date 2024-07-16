@@ -1,4 +1,4 @@
-# ***FUncion Debounce***
+# ***Función Debounce***
 
 Construccion e implementación de una Función debounce en TypeScript
 se usa Jest para las pruebas.
